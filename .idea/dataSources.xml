@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Database/database.sqlite" uuid="1e3e497e-6db0-4a5b-9dbd-6d9e4a1a35f4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\mathe\OneDrive\Documentos\dev\laravel7x-sanctum\database\database.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
